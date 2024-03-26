@@ -16,10 +16,10 @@ I'm a software engineer with experience working across various tech stacks, incl
 
 ###  🔭 Currently seeking new opportunities:
 
-  I'm particularly interested in finding a role that allows me to:
-    - Refine my English skills.
-    - Embrace new challenges: I thrive in fast-paced environments where I can continuously learn and grow.
-    - Contribute to a supportive team: I value collaboration, knowledge sharing, and a positive work culture.
+I'm particularly interested in finding a role that allows me to:
+  - Refine my English skills.
+  - Embrace new challenges: I thrive in fast-paced environments where I can continuously learn and grow.
+  - Contribute to a supportive team: I value collaboration, knowledge sharing, and a positive work culture.
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
